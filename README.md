@@ -24,7 +24,7 @@
 
 ##### Example URL
 
-- https://peya-img-gen.app/repository-cover?title=React%20OCTA&subtitle=Q-Commerce%20Tribe
+- https://peya-img-gen.vercel.app/repository-cover?title=React%20OCTA&subtitle=Q-Commerce%20Tribe
 
 </details>
 
@@ -48,6 +48,6 @@
 
 ##### Example URL
 
-- https://peya-img-gen.app/storybook-logo?undertext=groceries-react-app-layout
+- https://peya-img-gen.vercel.app/storybook-logo?undertext=groceries-react-app-layout
 
 </details>
