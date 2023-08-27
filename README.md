@@ -22,11 +22,9 @@
 > | --------- | ------------ | --------------- |
 > | `200`     | `image/png`  | generated image |
 
-##### Example cURL
+##### Example URL
 
-> ```javascript
->  curl -X GET -H "Content-Type: application/json" https://peya-img-gen.app/repository-cover?title=React%20OCTA&subtitle=Q-Commerce%20Tribe
-> ```
+- https://peya-img-gen.app/repository-cover?title=React%20OCTA&subtitle=Q-Commerce%20Tribe
 
 </details>
 
@@ -48,10 +46,8 @@
 > | --------- | ------------ | --------------- |
 > | `200`     | `image/png`  | generated image |
 
-##### Example cURL
+##### Example URL
 
-> ```javascript
->  curl -X GET -H "Content-Type: application/json" https://peya-img-gen.app/storybook-logo?undertext=groceries-react-app-layout
-> ```
+- https://peya-img-gen.app/storybook-logo?undertext=groceries-react-app-layout
 
 </details>
