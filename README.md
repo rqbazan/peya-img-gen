@@ -33,12 +33,12 @@
 
 ##### Query Parameters
 
-> | name        | type     | data type |
-> | ----------- | -------- | --------- |
-> | `undertext` | required | string    |
-> | `fontSize`  | optional | number    |
-> | `width`     | optional | number    |
-> | `height`    | optional | number    |
+> | name        | type     | default | data type |
+> | ----------- | -------- | ------- | --------- |
+> | `undertext` | required | -       | string    |
+> | `fontSize`  | optional | `14.5`  | number    |
+> | `width`     | optional | `178`   | number    |
+> | `height`    | optional | `62`    | number    |
 
 ##### Responses
 
